@@ -259,17 +259,15 @@
     "rating":"4/5",
     "date":"30/09/2022"
     },
+    {"id":24,
 
-    {
-        "id":24,
-
-        "institute_name": "Visvesvaraya National Institute Of Technology",
-        "location":"india",
-        "yourDescription":"student",
-        "about":"academic",
-        "review":"Best college for Engineering",
-        "rating":"4.5/5",
-        "date":"30/09/2022"
+    "institute_name": "Visvesvaraya National Institute Of Technology",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5/5",
+    "date":"30/09/2022",
     },
     {
 
@@ -280,7 +278,7 @@
     "about":"academic",
     "review":"The college is one of the best engineering and top-ranking engineering institute in India",
     "rating":"4.5/5",
-    "date":"30/09/2022"
+    "date":"30/09/2022",
     },    
     {
     "id":26,
@@ -324,6 +322,7 @@
         "review":"Best college for Engineering",
         "rating":"4.5/5",
         "date":"01/10/2022"
+
     },
     {
     "id":28,
@@ -369,7 +368,7 @@
     "yourDescription":"student",
     "about":"academic",
     "review":"SGGS has maintained a very good profile since last some years",
-    "rating":"4.1/5"
+    "rating":"4.1/5",
     },
     {
     "id":31,
@@ -382,7 +381,7 @@
     "date":"30/09/2021"
     },
     {
-    "id":32,
+    "id":32
     "institute_name": "Indraprastha Institute of Information Technology",
     "location":"india",
     "yourDescription":"student",
@@ -423,7 +422,6 @@
     "date":"30/09/2022"
     },
 
-
     {
         "id":35,
         "institute_name": "Government College of Engineering, Amravati",
@@ -444,6 +442,7 @@
     "rating":"4.9/5",
     "date":"30/09/2022"
     },
+
     {
     "id":36,
     "institute_name": "Walchand Institute of Technollogy",
@@ -454,7 +453,16 @@
     "rating":"2.4/5",
     "date":"30/09/2022"
     },
-
+    {
+    "id":37,
+    "institute_name": "Walchand College Of Engineering",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Campus",
+    "review":"Big campus need a bit maintainence but if taken care could be one of the greatest place to visit in sourthern Maharashtra",
+    "rating":"3.6/5",
+    "date":"1/10/2022"
+},
 {
     "id":37,
     "institute_name": "walchand college of engineering, sangli",
@@ -475,7 +483,8 @@
     "review":"Best college for Arts & Literature",
     "rating":"4.8/5",
     "date":"30/09/2022"
-    }
+
+    },
 {
     "id":26,
     "institute_name": "Dr. DY Patil Institute of Technology",
