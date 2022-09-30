@@ -241,5 +241,15 @@
     "rating":"4.5/5",
     "date":"30/09/2022",
     },
+      {
+    "id":27,
+    "institute_name": "L.R. Tiwari College of Enginering",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Worst college for Engineering",
+    "rating":"0.5/5",
+    "date":"30/09/2022",
+    }
 
 ]
