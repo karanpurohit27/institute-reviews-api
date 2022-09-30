@@ -205,7 +205,7 @@
     "review":"Best college for Diploma in Maharashtra, ideal for Vidharbhians",
     "rating":"5/5",
     "date":"29/09/2022"
-    }
+    },
      {
     "id":16,
     "institute_name": "Vishwakarma institute of technology",
@@ -292,6 +292,18 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     },
+
+      {
+    "id":27,
+    "institute_name": "K K Wagh college of Engineering, Sangli",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Average college for Engineering",
+    "rating":"4.6/5",
+    "date":"01/10/2022",
+    },
+
     {
     "id":27,
     "institute_name": "Indian Institute of Technology, Guwahati",
@@ -505,6 +517,5 @@
     "rating":"4.8/5",
     "date":"30/09/2022"
     }
-
 
 ]
