@@ -194,9 +194,6 @@
     "date":"30/09/2022"
     },
     {
-
-    "id":18,
-    "institute_name": "Government Polytechnic Amravati",
     "id":19,
     "institute_name": "Government Polytechnic, Amravati",
     "location":"india",
@@ -205,7 +202,7 @@
     "review":"Best college for Diploma in Maharashtra, ideal for Vidharbhians",
     "rating":"5/5",
     "date":"29/09/2022"
-    }
+    },
      {
     "id":16,
     "institute_name": "Vishwakarma institute of technology",
@@ -303,8 +300,6 @@
     "review":"Best college for Engineering",
     "rating":"4.5/5",
     "date":"30/09/2022"
-    }
-
     },
     {
     "id":27,
@@ -327,15 +322,18 @@
         "rating":"4.5/5",
         "date":"01/10/2022"
     },
+     {
+    "id":27,
+    "institute_name": "Shri Ramdeobaba College of Engineering and Management",
+    "location":"india",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Placement is good enough. Lots of opportunities are available. More than 75% are placed, with an average package of around 5 lakh and a maximum package of more than 20 lakh.",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
     {
     "id":28,
-
-    "institute_name": "Indraprastha Institute of Information Technology",
-    "location":"india",
-    "yourDescription":"student",
-    "about":"academic",
-    "review":"Best college for Engineering",
-
     "institute_name": "Lokmanya Tilak Municipal Medical College Sion, Mumbai",
     "location":"india",
     "yourDescription":"student",
@@ -348,6 +346,7 @@
     "id":29,
 
     "institute_name": "National Institute of Technology,Nagpur",
+
     "location":"india",
     "yourDescription":"student",
     "about":"academic",
@@ -364,6 +363,7 @@
     "rating":"4.2/5",
     "date":"1/10/2022"
     },
+
     {
     "id":30,
     "institute_name": "Shri Guru Gobind Singhji Institute of Engineering and Technology Nanded",
@@ -373,6 +373,7 @@
     "review":"SGGS has maintained a very good profile since last some years",
     "rating":"4.1/5"
     },
+
     {
     "id":31,
     "institute_name": "Indian Institute of Technology,Jodhpur",
@@ -384,6 +385,16 @@
     "date":"30/09/2021"
     },
     {
+    "id":35,
+    "institute_name": "Faculty of Management Studies",
+    "location":"India",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best management college in India",
+    "rating":"5/5",
+    "date":"30/09/2022"
+    },
+{
     "id":32,
     "institute_name": "Indraprastha Institute of Information Technology",
     "location":"india",
@@ -393,8 +404,21 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     },
-    {
+
+     {
     "id":33,
+    "institute_name": "IIIT Hyderabad",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Best college for  Computer Science Engineering",
+    "rating":"4.9/5",
+    "date":"30/09/2022"
+    },
+
+
+    {
+    "id":34,
     "institute_name": "Sardar patel institute of technology",
     "location":"india",
     "yourDescription":"student",
@@ -465,16 +489,16 @@
     "review":"Best college for Arts & Literature",
     "rating":"4.8/5",
     "date":"30/09/2022"
-    }
-{
-    "id":26,
-    "institute_name": "Dr. DY Patil Institute of Technology",
-    "location":"India",
-    "yourDescription":"Student",
-    "about":"Academic",
-    "review":"Great Infra and Opportunities",
-    "rating":"4.5/5",
-},
+    },
+    {
+        "id":26,
+        "institute_name": "Dr. DY Patil Institute of Technology",
+        "location":"India",
+        "yourDescription":"Student",
+        "about":"Academic",
+        "review":"Great Infra and Opportunities",
+        "rating":"4.5/5"
+    },
     
     {
     "id":24,
@@ -484,7 +508,7 @@
     "about":"academic",
     "review":"Best college for Engineering",
     "rating":"4.9/5",
-    "date":"30/09/2022",
+    "date":"30/09/2022"
 
     },
 {
@@ -515,7 +539,6 @@
     "about":"academic",
     "review":"college for Engineering in Pune",
     "rating":"4.5/5",
-    "date":"30/09/2022",
-    },
-
+    "date":"30/09/2022"
+    }
 ]
