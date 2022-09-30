@@ -506,6 +506,16 @@
     "review":"Best college for Engineering",
     "rating":"4.8/5",
     "date":"30/09/2022"
+    },
+    {
+    "id":7008,
+    "institute_name": "S.V.P.M.'s ITE Malegaon Bk.",
+    "location":"Baramati",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Worst college for Engineering",
+    "rating":"0.8/5",
+    "date":"30/09/2022"
     }
 
 ]
