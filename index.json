@@ -271,6 +271,16 @@
     "rating":"5/5",
     "date":"30/09/2022"
     },
+     {
+    "id":27,
+    "institute_name": "Shri Ramdeobaba College of Engineering and Management",
+    "location":"india",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Placement is good enough. Lots of opportunities are available. More than 75% are placed, with an average package of around 5 lakh and a maximum package of more than 20 lakh.",
+    "rating":"4/5",
+    "date":"30/09/2022"
+    },
 
 
 ]
